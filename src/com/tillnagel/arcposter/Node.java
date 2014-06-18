@@ -3,6 +3,10 @@ package com.tillnagel.arcposter;
 import processing.core.PApplet;
 import processing.core.PImage;
 
+/**
+ * A node for each Arc diagram. Contains data and representation. 
+ *
+ */
 public class Node {
 
 	protected PApplet p;
