@@ -3,7 +3,7 @@ ArcSurvey
 
 Visual repository of arc diagrams. Creates an arc diagram of arc diagrams.
 
-![Visual Survey of Arc Diagrams - Poster](https://github.com/tillnagel/ArcSurvey/blob/master/docs/Nagel-VisualSurveyOfArcDiagrams-Poster.png)
+![Visual Survey of Arc Diagrams - Poster](https://raw.githubusercontent.com/tillnagel/ArcSurvey/master/docs/Nagel-VisualSurveyOfArcDiagrams-Poster.png)
 
 This project generated the poster "Visual Survey of Arc Diagrams" exhibited at IEEE Vis 2013.
 
