@@ -9,4 +9,4 @@ This project generated the poster "Visual Survey of Arc Diagrams" exhibited at I
 
 http://ieeevis.org/year/2013/poster/visual-survey-arc-diagrams
 
-http://tillnagel.com/publications/
+http://tillnagel.com/wp-content/uploads/2010/09/Nagel-Visual-Survey-of-Arc-Diagrams-Errata.pdf
